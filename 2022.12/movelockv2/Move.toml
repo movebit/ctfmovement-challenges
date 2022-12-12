@@ -1,0 +1,9 @@
+[package]
+name = 'move-lock'
+version = '1.0.0'
+[dependencies.AptosFramework]
+local = "../framework/aptos-framework"
+
+[addresses]
+ctfmovement = '_'
+#ctfmovement = '4d79d0776b63e890e7c6708555999c5ada7e8caae362f883d7072a8b16523fb8'
